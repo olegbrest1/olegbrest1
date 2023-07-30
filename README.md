@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @olegbrest1
 - 👀 I’m interested in ruby on rails 
-- 🌱 I’m currently learning .it academy brest..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
